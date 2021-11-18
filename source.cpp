@@ -13,6 +13,8 @@ int main()
 	cin >> b;
 	cout << "Chon phep toan (+,-) ";
 	cin >> a+b;
+	cout<<"Phep tich";
+	cin>>a/b;
 	system("pause");
 	return 0;
 }
